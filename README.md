@@ -1,4 +1,4 @@
-# ReactJs & Redux - Song List
+# ReactJS & Redux - Song List
 Show simple song list by using redux
 
 ## Setup Project
@@ -22,4 +22,4 @@ npm start
 
 ***
 
-Demo: https://reactjs-unsplash-search-photo.vercel.app/
+Demo: https://reactjs-redux-song-list.vercel.app/
